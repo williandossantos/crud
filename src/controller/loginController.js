@@ -1,3 +1,3 @@
 module.exports = {
-    main: (_, res) => res.render("main")
+    autenticacao: (_, res) => res.render("main")
 }
